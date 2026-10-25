@@ -5,7 +5,7 @@
 ###  Backend Developer da Talk Code — Software House & AI Systems Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-rodrigues-santos-ribeiro-48338b3b6/)
-[![Email](https://img.shields.io/badge/Email-daniel.talkcodes%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.talkcodes@gmail.com)
+[![Email](https://img.shields.io/badge/Email-danielrsribeiro.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.talkcodes@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-danielribeiro--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielribeiro-dev)
 [![Location](https://img.shields.io/badge/Localização-Brasil-009739?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
